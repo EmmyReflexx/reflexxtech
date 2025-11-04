@@ -2,12 +2,10 @@
   font-family: 'LexendDecaB';
   src: url(fonts/LexendDeca-Bold.ttf);
 }
-
 @font-face {
   font-family: 'LexendDecaR';
   src: url(fonts/LexendDeca-Regular.ttf);
 }
-
 @font-face {
   font-family: 'Cinzel';
   src: url(fonts/CinzelDecorative-Bold.otf);
@@ -615,3 +613,4 @@ footer p{
   opacity: 0;
 
 }
+
